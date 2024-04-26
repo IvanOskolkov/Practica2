@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="gr622_osiev@10.30.0.137" uuid="f6fbd8c5-3946-4181-a30b-8c6d879efdf8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>gr622_osiev</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
